@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTimerApp", "TaskTimerApp\TaskTimerApp.csproj", "{BB29E07D-D444-40D6-9075-A29694D7138C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB29E07D-D444-40D6-9075-A29694D7138C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29E07D-D444-40D6-9075-A29694D7138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29E07D-D444-40D6-9075-A29694D7138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29E07D-D444-40D6-9075-A29694D7138C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8700D05-5F84-4246-AA4B-57A3E9229BAB}
+	EndGlobalSection
+EndGlobal
