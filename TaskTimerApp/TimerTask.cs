@@ -43,8 +43,9 @@ namespace TaskTimerApp
                     }
                     try
                     {
-                        Console.WriteLine($"[{DateTime.Now}] - execute");
-                        MinRunEvent?.Invoke(dt);
+                        var exeTime = DateTime.Now;
+                        Console.WriteLine($"[{exeTime}] - execute");
+                        MinRunEvent?.Invoke(exeTime);
                         //GenDataTimerEvent();
                     }
                     catch (Exception e)
